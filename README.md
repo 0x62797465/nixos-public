@@ -1,0 +1,1 @@
+Meant for personal use, it will break if your username isn't the letter "h". Some hardware specific workarounds included; probably won't break on your machine. Dotfiles are private but I may share them on request, I'm not using home manager as it is really easy to just back up dotfiles. 
